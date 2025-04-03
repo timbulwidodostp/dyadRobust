@@ -1,6 +1,8 @@
 # dyadRobust
 Dyad robust standard error estimator Use dyadRobust With (In) R Software
 
+https://www.youtube.com/watch?v=Kkb0HkK4lKw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
